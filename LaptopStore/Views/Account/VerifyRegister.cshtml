@@ -1,0 +1,39 @@
+﻿@{
+	ViewData["Title"] = "Verify";
+}
+
+
+<div class="d-flex justify-content-center mt-3">
+	<div class="card bg-white"
+		 style="width: 250px; height: 310px; padding: 30px">
+		<form action="CompleteRegister" method="post">
+			<div class="text-body-tertiary mb-2 text-center">
+				<i> mã xác nhận đã gửi về email của bạn</i>
+			</div>
+			<div class="d-flex justify-content-center text-center">
+				<div id="countdown" style="font-size: 25px; color: red"></div>
+			</div>
+			<div class="mb-3 text-center">
+				<label class="form-label" style="font-size: 20px">
+					Nhập mã
+					xác nhận
+				</label> <input type="text" class="form-control"
+							name="ConfirmVerifyCode" required="required" />
+
+			</div>
+			<div class="mb-3 d-flex justify-content-center">
+				<button type="submit" class="btn btn-primary">Xác nhận</button>
+			</div>
+
+			
+		</form>
+	</div>
+</div>
+
+
+
+@section Scripts{
+	<script src="~/js/timeOutVerify.js">
+
+	</script>
+}

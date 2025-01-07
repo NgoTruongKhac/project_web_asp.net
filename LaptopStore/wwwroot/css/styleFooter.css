@@ -1,0 +1,14 @@
+﻿.a-footer {
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+}
+
+    .a-footer:hover {
+        font-weight: bold;
+    }
+
+.span-footer {
+    color: red;
+    font-weight: 500;
+}

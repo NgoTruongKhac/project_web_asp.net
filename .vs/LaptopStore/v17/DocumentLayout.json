@@ -1,0 +1,1089 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.net mvc\\LaptopStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\userinfo\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\userinfo\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\stylenavbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\stylenavbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\stylefooter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\stylefooter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\addressvietnamapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\addressvietnamapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\userinfo\\viewuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\userinfo\\viewuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\confirmlogout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\confirmlogout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\changeemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\changeemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\authorization\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\authorization\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\order.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\order.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\laptopstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\laptopstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\timeoutverify.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\timeoutverify.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\data\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\data\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\admin.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\admin.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\registerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\registerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\verifyregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\verifyregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\verifyforgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\verifyforgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxcheckemail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxcheckemail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\service\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\service\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\userinfoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\userinfoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\migrations\\20241209131636_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\migrations\\20241209131636_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\migrations\\connectdatabasemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\migrations\\connectdatabasemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\addressvietnamapi.js||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\addressvietnamapi.js||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\userinfo\\viewuserinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\userinfo\\viewuserinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\verifyregister.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\verifyregister.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\image\\blank_avatar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\image\\blank_avatar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\alert.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\alert.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxcheckemail.js||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxcheckemail.js||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\timeoutverify.js||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\timeoutverify.js||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\stylenavbar.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\stylenavbar.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAAC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:54:04.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:19:24.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styleNavbar.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\styleNavbar.css",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\styleNavbar.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\styleNavbar.css",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\styleNavbar.css",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T07:29:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "styleFooter.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\styleFooter.css",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\styleFooter.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\styleFooter.css",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\styleFooter.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T08:00:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\admin.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-04T16:27:31.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\UserInfo\\Address.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\UserInfo\\Address.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\UserInfo\\Address.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\UserInfo\\Address.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T10:06:28.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Admin.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\Admin.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Admin.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:07:50.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\admin.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\admin.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\admin.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\admin.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-04T16:35:39.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserInfoController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\UserInfoController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\UserInfoController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\UserInfoController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\UserInfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:21:08.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:58:58.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\appsettings.json",
+              "RelativeDocumentMoniker": "LaptopStore\\appsettings.json",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\appsettings.json",
+              "RelativeToolTip": "LaptopStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T10:55:39.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Program.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Program.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Program.cs",
+              "RelativeToolTip": "LaptopStore\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:13:10.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "addressVietNamAPI.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\addressVietNamAPI.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\addressVietNamAPI.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\addressVietNamAPI.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\addressVietNamAPI.js",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T18:04:18.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewUserInfo.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T19:26:46.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "confirmLogout.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\confirmLogout.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\confirmLogout.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\confirmLogout.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\confirmLogout.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-17T19:58:17.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "alert.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\alert.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\alert.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\alert.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\alert.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:08:22.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwB0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:22:18.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:20:56.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Product.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Product.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Product.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:51:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Order.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Order.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Order.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\Order.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:52:23.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T14:22:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T16:04:25.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChangeEmail.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\ChangeEmail.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\ChangeEmail.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\ChangeEmail.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\ChangeEmail.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T10:51:39.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T17:33:57.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:58:57.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:23:20.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthorizationFilter.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Authorization\\AuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Authorization\\AuthorizationFilter.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Authorization\\AuthorizationFilter.cs",
+              "RelativeToolTip": "LaptopStore\\Authorization\\AuthorizationFilter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:25:47.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Order.cshtml.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Order.cshtml.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Order.cshtml.cs",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\Order.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:31:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\ForgotPassword.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\ForgotPassword.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\ForgotPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:20:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LaptopStore.csproj",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\LaptopStore.csproj",
+              "RelativeDocumentMoniker": "LaptopStore\\LaptopStore.csproj",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\LaptopStore.csproj",
+              "RelativeToolTip": "LaptopStore\\LaptopStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T10:55:30.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T13:40:59.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\Address.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\Address.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\Address.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\Address.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:11:43.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "timeOutVerify.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\timeOutVerify.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\timeOutVerify.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\timeOutVerify.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\timeOutVerify.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T10:10:03.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T10:20:02.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T09:59:09.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T10:14:17.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\User.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\User.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\User.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\User.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:51:15.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ConnectDatabase.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Data\\ConnectDatabase.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Data\\ConnectDatabase.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Data\\ConnectDatabase.cs",
+              "RelativeToolTip": "LaptopStore\\Data\\ConnectDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:54:22.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "admin.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\admin.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-04T16:26:59.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T20:01:45.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-04T14:23:38.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\User.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\User.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\User.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:54:55.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VerifyRegister.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\VerifyRegister.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\VerifyRegister.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\VerifyRegister.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\VerifyRegister.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:59:02.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RegisterInfo.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\RegisterInfo.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\RegisterInfo.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\RegisterInfo.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\RegisterInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:17:43.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VerifyForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\VerifyForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\VerifyForgotPassword.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\VerifyForgotPassword.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\VerifyForgotPassword.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T07:25:24.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ajaxCheckEmail.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T10:00:41.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Service\\SendEmail.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Service\\SendEmail.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Service\\SendEmail.cs",
+              "RelativeToolTip": "LaptopStore\\Service\\SendEmail.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:10:40.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\UserLogin.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\UserLogin.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\UserLogin.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:21:58.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserInfoUpdate.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:21:09.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20241209131636_User.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20241209131636_User.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20241209131636_User.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20241209131636_User.cs",
+              "RelativeToolTip": "LaptopStore\\Migrations\\20241209131636_User.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:16:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ConnectDatabaseModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\ConnectDatabaseModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Migrations\\ConnectDatabaseModelSnapshot.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\ConnectDatabaseModelSnapshot.cs",
+              "RelativeToolTip": "LaptopStore\\Migrations\\ConnectDatabaseModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:41:02.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:17:12.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "addressVietNamAPI.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\addressVietNamAPI.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\addressVietNamAPI.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\addressVietNamAPI.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\addressVietNamAPI.js",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T13:25:19.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ViewUserInfo.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml.cs",
+              "RelativeToolTip": "LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:41:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "VerifyRegister.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\VerifyRegister.cshtml.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\VerifyRegister.cshtml.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\VerifyRegister.cshtml.cs",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\VerifyRegister.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:41:47.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "blank_avatar.png - PNG [450x450, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\blank_avatar.png",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\image\\blank_avatar.png",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\blank_avatar.png - PNG [450x450, 32 bit, PNG]",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\image\\blank_avatar.png - PNG [450x450, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-17T19:34:51.971Z",
+              "EditorCaption": " - PNG [450x450, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "alert.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\alert.cshtml.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\alert.cshtml.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\alert.cshtml.cs",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\alert.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:31.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\readme.md",
+              "ToolTip": "C:\\Users\\LENOVO\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\readme.md [Read Only]",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAFUAAAAbAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-10T15:05:09.574Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ajaxCheckEmail.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T09:52:41.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "timeOutVerify.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\timeOutVerify.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\timeOutVerify.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\timeOutVerify.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\timeOutVerify.js",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T16:10:04.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:12:58.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "LaptopStore\\Views\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:20:18.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LaptopStore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LaptopStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T10:55:15.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T10:54:42.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LICENSE",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T10:54:36.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "styleNavbar.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\styleNavbar.css",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\styleNavbar.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\styleNavbar.css",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\styleNavbar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T07:29:37.523Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

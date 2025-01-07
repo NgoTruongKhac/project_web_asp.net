@@ -1,0 +1,35 @@
+﻿@if (ViewBag.message != null && ViewBag.type != null)
+{
+    <script>
+        const notyf = new Notyf();
+        notyf.open({
+            type: "@ViewBag.type",
+            message: "@ViewBag.message",
+            position: {
+                x: "center",
+                y: "center",
+            },
+            duration: 2500,
+            dismissible: true
+        });
+    </script>
+}
+
+@if (TempData["message"] != null && TempData["type"] != null)
+{
+
+    <script>
+        const notyf = new Notyf();
+        notyf.open({
+            type: "@TempData["type"]",
+            message: "@TempData["message"]",
+            position: {
+                x: "center",
+                y: "center",
+            },
+            duration: 2500,
+            dismissible: true
+        });
+    </script>
+
+}

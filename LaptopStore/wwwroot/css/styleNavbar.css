@@ -1,0 +1,126 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.nav-item .nav-link:hover {
+    color: white;
+}
+
+.nav-link {
+    color: black;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #0dcaf0;
+}
+
+@media ( max-width : 768px) {
+    .logoImg {
+        width: 70px;
+    }
+
+    .user {
+        display: flex;
+        margin-left: auto;
+    }
+
+    .cart {
+        font-size: 25px;
+    }
+
+    #cartCount {
+        font-size: 10px;
+    }
+
+    #btn-search {
+        font-size: 10px
+    }
+}
+
+@media ( min-width : 768px) {
+    .logoImg {
+        width: 170px;
+    }
+
+    .cart {
+        font-size: 28px;
+    }
+
+    #cartCount {
+        font-size: 10px;
+    }
+
+    .login, .register {
+        height: 42px;
+    }
+}
+
+@media ( min-width : 768px) {
+    .name-search {
+        font-size: 14px;
+    }
+
+    .price-search {
+        font-size: 15px;
+        margin-top: -15px;
+        margin-bottom: -10px;
+    }
+
+    .image-search {
+        width: 48%;
+    }
+
+    #listProductSuggest {
+        width: 40%;
+        z-index: 1000;
+        margin: 0;
+        padding: 0;
+        max-height: 370px;
+        overflow-y: auto;
+    }
+}
+
+@media ( max-width : 768px) {
+    .name-search {
+        font-size: 10px;
+    }
+
+    .price-search {
+        font-size: 11px;
+        margin-top: -10px;
+        margin-bottom: -10px;
+    }
+
+    .image-search {
+        width: 60%;
+    }
+
+    #listProductSuggest {
+        width: 65%;
+        z-index: 1000;
+        margin: 0;
+        padding: 0;
+        max-height: 200px;
+        overflow-y: auto;
+    }
+}
+
+#accountIcon {
+    background: none;
+    border: none;
+    color: #0d6efd;
+}
+
+    #accountIcon:hover {
+        color: #0d6efd;
+    }
+
+.product-suggest:hover {
+    background-color: #cff4fc;
+}
