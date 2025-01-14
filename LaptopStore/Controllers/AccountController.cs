@@ -1,9 +1,12 @@
 ﻿
 using LaptopStore.Data;
+
 using LaptopStore.Models.Account;
 using LaptopStore.Service;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Claims;
 using System.Text.Json;
 
 
@@ -51,19 +54,42 @@ namespace LaptopStore.Controllers
 
 				if (isPassword)
 				{
+
+					// Thiết lập Claims
+					var claims = new List<Claim>
+			{
+				new Claim(ClaimTypes.Name, user.Email),
+				new Claim(ClaimTypes.Role, user.Role)
+			};
+
+					var identity = new ClaimsIdentity(claims, "CookieAuth");
+					var principal = new ClaimsPrincipal(identity);
+
+					// Đăng nhập người dùng
+					await HttpContext.SignInAsync("CookieAuth", principal);
+
+
 					TempData["message"] = "đăng nhập thành công";
 					TempData["type"] = "success";
 
 					HttpContext.Session.SetString("User", JsonSerializer.Serialize(user));
 
 
+
+
 					if (user.Role == "admin")
 					{
+
+
 						return RedirectToAction("Dashboard", "Admin");
 					}
 					else if (user.Role == "customer")
 					{
-						return RedirectToAction("Index", "Home");
+
+                        int quantityCart = await connectDatabase.carts.Where(c => c.User.UserId == user.UserId).SumAsync(c => c.quantity);
+                        HttpContext.Session.SetInt32("quantityCart", quantityCart);
+
+                        return RedirectToAction("Index", "Home");
 					}
 				}
 				else

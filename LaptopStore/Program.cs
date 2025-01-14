@@ -23,6 +23,13 @@ builder.Services.AddSession(options =>
 	options.Cookie.HttpOnly = true;
 	options.Cookie.IsEssential = true;
 });
+builder.Services.AddAuthentication("CookieAuth")
+	.AddCookie("CookieAuth", config =>
+	{
+		config.LoginPath = "/Home/Login"; 
+		config.AccessDeniedPath = "/Home/AccessDenied";
+	});
+
 
 builder.Services.AddDistributedMemoryCache();
 

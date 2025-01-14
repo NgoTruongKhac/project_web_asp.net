@@ -1,0 +1,108 @@
+﻿@{
+
+	Layout = "~/Views/Shared/Admin.cshtml";
+
+	ViewData["Title"] = "Edit product";
+}
+@model LaptopStore.Models.Home.ProductVM
+
+<div class="mb-5 mt-2 d-flex justify-content-center">
+	<h4>Thêm Tài Khoản</h4>
+</div>
+<form asp-action="AddProduct" method="post" enctype="multipart/form-data" class="rounded-1 p-4" style="border: solid 1px">
+
+	<div class="row">
+		<div class="col-md-5 col-12">
+			<div class="mb-3">
+				<input asp-for="Name" id="name" class="form-control" type="text"
+					   placeholder="Tên"  />
+			</div>
+			<div class="mb-3">
+				<input asp-for="Price" id="price" class="form-control" type="text"
+					   placeholder="Giá"  />
+			</div>
+			<div class="mb-3">
+				<input asp-for="Brand" id="brand" class="form-control" type="text"
+					   placeholder="Thương hiệu" />
+			</div>
+			<div class="mb-1">
+				<input asp-for="productdetail.Category" id="category" class="form-control" type="text"
+					   placeholder="Loại" />
+			</div>
+		</div>
+		<div class="col-md-7 col-12">
+			<div class="row">
+				<div class="col-6 mb-3">
+					<label asp-for="ImageFile" for="file-upload-add" class="custom-file-upload">
+						<i class="bi bi-upload me-1"></i> Ảnh
+					</label> <input asp-for="ImageFile" id="file-upload-add" type="file" accept="image/*"
+							    style="display: none" />
+
+					<!-- Vùng hiển thị bản xem trước -->
+				</div>
+				<div class="col-6">
+
+					<div class="col-6">
+						<img id="preview-add" />
+					</div>
+
+
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-6">
+					<div class="mb-3">
+						<input asp-for="productdetail.Cpu" id="cpu" class="form-control" type="text"
+							   placeholder="CPU"  />
+					</div>
+					<div class="mb-3">
+						<input asp-for="productdetail.Gpu" id="gpu" class="form-control" type="text"
+							   placeholder="GPU"  />
+					</div>
+					<div class="mb-1">
+						<input asp-for="productdetail.Ram" id="ram" class="form-control" type="text"
+							   placeholder="RAM"  />
+					</div>
+				</div>
+				<div class="col-6">
+					<div class="mb-3">
+						<input asp-for="productdetail.Drive" id="drive" class="form-control" type="text"
+							   placeholder="Dung lượng lưu trữ"  />
+					</div>
+					<div class="mb-3">
+						<input asp-for="productdetail.Size" id="size" class="form-control" type="text"
+							   placeholder="kích thước màn hình"  />
+					</div>
+					<div class="mb-1">
+						<input asp-for="productdetail.Resolution" id="resolution" class="form-control" type="text"
+							   placeholder="Độ phân giải"  />
+					</div>
+				</div>
+			</div>
+		</div>
+		<div>
+			<div>
+				<label class="form-label" for="">Mô tả chi tiết</label>
+			</div>
+			<textarea asp-for="Description" id="description" class="form-control"
+					  rows="4"></textarea>
+
+		</div>
+		
+		
+	</div>
+	<div class="d-flex justify-content-center mt-3">
+		<button class="btn btn-outline-primary" type="submit">
+			Thêm
+		</button>
+
+	</div>
+
+
+</form>
+
+@section Scripts {
+
+	<script src="~/js/previewImage.js"></script>
+}

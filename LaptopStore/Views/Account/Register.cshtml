@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="mb-2">
-                <label asp-for="EmailOrPhone" class="form-label">Email</label> <input onblur="checkEmailRegister" id="EmailOrPhone" type="email" class="form-control"
+                <label asp-for="EmailOrPhone" class="form-label">Email</label> <input onblur="checkEmailRegister()" id="EmailOrPhone" type="email" class="form-control"
                                                                               asp-for="EmailOrPhone" />
                 <span asp-validation-for="EmailOrPhone" class="text-danger"></span>
                

@@ -1,5 +1,104 @@
 ﻿@{
-    Layout = "~/Views/Shared/Admin.cshtml";
-}
 
-<h1>Admin User</h1>
+	Layout = "~/Views/Shared/Admin.cshtml";
+
+	ViewData["Title"] = "Dashboard";
+
+	Page pager = new Page();
+
+	int pageNo = 0;
+	if (ViewBag.Page != null)
+	{
+		pager = ViewBag.Page;
+		pageNo = pager.CurrentPage;
+	}
+}
+@model List<LaptopStore.Models.Account.User>
+
+
+<div class="mb-2 d-flex justify-content-center">
+	<h4>Tài Khoản</h4>
+</div>
+<div class="d-flex justify-content-start">
+	<a asp-controller="Admin" asp-action="AddUser"
+			class="btn btn-outline-primary btn-sm">
+		<i class="bi bi-plus-lg me-1"></i>Tài khoản
+	</a>
+</div>
+
+<div id="listUserManage">
+
+	<div class="table-responsive">
+		<table id="userTable" class="table table table-bordered table-striped text-center"
+			   style="vertical-align: middle;">
+			<thead>
+				<tr>
+					<th scope="col" class="col-md-1">UserId</th>
+					<th scope="col" class="col-md-2">Họ</th>
+					<th scope="col" class="col-md-1">Tên</th>
+					<th scope="col" class="col-md-2">Email</th>
+					<th scope="col" class="col-md-2">STĐ</th>
+					<th scope="col" class="col-md-2">Năm sinh</th>
+					<th scope="col" class="col-md-1">Sửa</th>
+					<th scope="col" class="col-md-1">Xoá</th>
+				</tr>
+			</thead>
+			<tbody>
+
+				@if (Model != null)
+				{
+					@foreach (var user in Model)
+					{
+						<tr>
+							<th scope="row">@user.UserId</th>
+							<td>@user.LastName</td>
+							<td>@user.FirstName</td>
+							<td>@user.Email</td>
+							<td>@user.PhoneNumber</td>
+							<td>@user.Birthday?.ToString("dd/MM/yyyy")</td>
+							<td>
+								<a  class="btn" asp-controller="Admin" asp-action="EditUser" asp-route-userId="@user.UserId" asp-route-page="@pager.CurrentPage"
+										>
+									<i class="bi bi-pencil-square" style="color: blue;"></i>
+								</a>
+							</td>
+							<td>
+								<button onclick="deleteUser(@user.UserId,@pager.CurrentPage)"
+										class="btn">
+									<i class="bi bi-trash3-fill" style="color: red;"></i>
+								</button>
+							</td>
+						</tr>
+					}		
+					
+				}
+				
+			</tbody>
+
+	
+		</table>
+	
+	</div>
+
+	<partial name="Pagination" model="@pager"></partial>
+	
+
+</div>
+
+@section Scripts {
+
+	<script src="//cdn.datatables.net/2.2.0/js/dataTables.min.js"></script>
+	<script src="~/js/alertDelete.js"></script>
+	<script>
+
+		let table = new DataTable('#userTable', {
+			paging: false,        // Tắt phân trang
+			lengthChange: false,  // Tắt phần "Show entries"
+			info: false           // Tắt phần hiển thị thông tin tổng số dòng
+		});
+
+	</script>
+}
+@section Styles{
+	<link href="//cdn.datatables.net/2.2.0/css/dataTables.dataTables.min.css" rel="stylesheet" />
+}

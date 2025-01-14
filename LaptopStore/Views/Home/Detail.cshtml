@@ -1,0 +1,244 @@
+﻿@{
+
+    ViewData["Title"] = "detail product";
+    var product = ViewBag.ProductDetail;
+    var listReview = ViewBag.ListReviews as List<LaptopStore.Models.Reviews.Reviews>;
+    var StarStatistics = ViewBag.StarStatistics;
+    var Rate = ViewBag.rate;
+}
+@using System.Text.Json
+@using LaptopStore.Models.Account
+@{
+    // Lấy dữ liệu User từ Session
+    var userJson = Context.Session.GetString("User");
+    User user = null;
+    //lấy dữ liệu cart
+    int? quantityCart = Context.Session.GetInt32("quantityCart");
+
+    if (!string.IsNullOrEmpty(userJson))
+    {
+        user = JsonSerializer.Deserialize<User>(userJson);
+    }
+}
+@model LaptopStore.Models.Reviews.Reviews
+
+<main class="d-flex flex-column mt-4 mb-4">
+    <div class="product row d-flex align-self-center rounded-2"
+         style="width: 90%">
+        <div class="col-md-5 col-12 d-flex justify-content-center">
+            <img src="@product.Image"
+                 alt=""
+                 style="width: 65%" />
+        </div>
+        <div class="col-md-7 col-12" style="border-left: solid 1px #0d6efd">
+            <div class="d-flex justify-content-center mt-4">
+                <h3>@product.Name</h3>
+            </div>
+            <div class="d-flex flex-row ms-5 mt-2">
+                <div class="d-flex flex-row me-4">
+                    <p class="text-warning me-1">@Rate/5</p>
+                    <i class="bi bi-star-fill text-warning"></i>
+                </div>
+                <a href="#" id="scroll-to-review" style="text-decoration: none">xem đánh giá</a>
+            </div>
+            <div class="d-flex justify-content-center mt-3">
+                <h2 class="text-danger">
+                    @string.Format("{0:N0} đ", @product.Price)
+                </h2>
+            </div>
+            <div class="d-flex justify-content-evenly mt-3 mb-3">
+                <a href="/BuyNow?productId=@product.ProductId"
+                   class="buy-now btn btn-outline-primary"
+                   style="width: 40%">Mua ngay</a>
+                <button onclick="addToCart(@product.ProductId)"
+                        class="add-cart btn btn-outline-primary"
+                        style="width: 15%">
+                    <i class="bi bi-cart-plus"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="detail row d-flex align-self-center mt-3 rounded-2"
+         style="width: 90%">
+        <div class="col-md-6 col-12">
+            <div class="mt-3 mb-3">
+                <h4>Thông tin chi tiết</h4>
+            </div>
+            <div>
+                <p>@product.Description</p>
+            </div>
+        </div>
+        <div class="col-md-6 col-12" style="border-left: solid 1px #0d6efd">
+            <div class="mt-3 mb-3">
+                <h4>Thông số kĩ thuật</h4>
+            </div>
+            <div>
+                <table class="table table-striped">
+                    <tbody>
+                        <tr>
+                            <td>CPU</td>
+                            <td>@product.productdetail.Cpu</td>
+                        </tr>
+                        <tr>
+                            <td>Card đồ hoạ</td>
+                            <td>@product.productdetail.Gpu</td>
+                        </tr>
+                        <tr>
+                            <td>RAM</td>
+                            <td>@product.productdetail.Ram gb</td>
+                        </tr>
+                        <tr>
+                            <td>Dung lượng lưu trữ</td>
+                            <td>@product.productdetail.Drive gb</td>
+                        </tr>
+                        <tr>
+                            <td>Kích thước màn hình</td>
+                            <td>@product.productdetail.Size in</td>
+                        </tr>
+                        <tr>
+                            <td>Độ phân giải</td>
+                            <td>@product.productdetail.Resolution</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- phần review -->
+    <div class="row d-flex align-self-center mt-3" style="width: 90%">
+        <div id="review" class="col-md-12 col-12 rounded-2">
+            <div class="mt-2">
+                <h4>Nhận xét & đánh giá</h4>
+            </div>
+            <div class="rate">
+                <div class="col-md-2 col-8 d-flex justify-content-center align-items-center">
+                    <h2>@Rate/5</h2>
+                </div>
+                <hr />
+                <div class="col-md-5 col-8 ms-4 d-flex flex-column-reverse">
+                    @for (var star = 1; star <= 5; star++)
+                    {
+                        <div class="row d-flex align-items-center">
+                            <div class="row d-flex align-items-center">
+                                <div class="col-md-1 col-2 d-flex flex-row me-1">
+                                    @star <i class="star bi bi-star-fill ms-1"></i>
+                                </div>
+                                <div class="progress col-md-9 col-8" role="progressbar"
+                                     aria-label="Basic example"
+                                     aria-valuenow="@(listReview.Count > 0?StarStatistics[star] * 100 / listReview.Count:0)"
+                                     aria-valuemin="0"
+                                     aria-valuemax="100">
+                                    <div class="progress-bar"
+                                         style="width: @(listReview.Count > 0 ?StarStatistics[star] * 100 / listReview.Count:0)%">
+                                    </div>
+                                </div>
+                                <span class="col-md-1 col-1">(@StarStatistics[star])</span>
+                            </div>
+                        </div>
+                    }
+
+
+
+                </div>
+                <div class="col-md-3 col-8 d-flex justify-content-center align-items-center">
+
+                    @if(user !=null){
+                        <button type="button" class="btn btn-outline-success"
+                                data-bs-toggle="modal" data-bs-target="#voteModal">
+                            Gửi đánh
+                            giá của bạn
+                        </button>
+                    }
+                    @if(user ==null){
+                        <button type="button" class="btn btn-outline-success"
+                                onclick="requireLogin()">
+                            Gửi đánh
+                            giá của bạn
+                        </button>
+                    }
+                </div>
+            </div>
+            <hr class="mt-4" />
+            @foreach(var review in listReview){
+                <div class="ms-3">
+                    <div class="d-flex flex-row">
+                        <div class="d-flex align-items-center">
+                            <img style="width: 2.5rem; border-radius: 100%; border: solid"
+                                 src="@review.User.Avatar" alt="" />
+                        </div>
+                        <div class="me-3 ms-2 d-flex align-items-center">
+                           @review.User.LastName
+                           @review.User.FirstName
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <i class="bi bi-clock"></i> <span>@review.Created</span>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-row ms-5">
+                        <div class="star d-flex flex-row">
+                            @for (var star = 1; star <= 5; star++)
+                            {
+                                <i class="bi bi-star-fill" style="color: @(star <= review.Rate ? "gold" : "grey");"></i>
+                            }
+
+                        </div>
+                        <div class="ms-3">
+                            <p>@review.comment</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="voteModal" tabindex="-1"
+         aria-labelledby="voteLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="voteLabel">Đánh giá & nhận xét</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                            aria-label="Close"></button>
+                </div>
+                <form asp-controller="Review" asp-action="AddReview" method="post">
+                    
+                    <input asp-for="ProductId" type="hidden" value="@product.ProductId">
+                    @if (user != null)
+                    {
+                    <input asp-for="UserId" type="hidden"  value="@user.UserId" />
+                        
+                    }
+                    <div class="modal-body">
+                        <div class="stars d-flex justify-content-center">
+                            <input asp-for="Rate" type="radio" id="star-5" value="5" /> <label for="star-5"><i class="bi bi-star-fill"></i></label> <input asp-for="Rate" type="radio" id="star-4" value="4" /> <label for="star-4"><i class="bi bi-star-fill"></i></label> <input asp-for="Rate" type="radio" id="star-3" value="3" /> <label for="star-3"><i class="bi bi-star-fill"></i></label> <input asp-for="Rate" type="radio" id="star-2" value="2" /> <label for="star-2"><i class="bi bi-star-fill"></i></label> <input asp-for="Rate" type="radio" id="star-1" value="1" /> <label for="star-1"><i class="bi bi-star-fill"></i></label>
+                        </div>
+                        <div class="d-flex justify-content-center">
+                            <p id="rating-result" style="font-size: 1rem">0 sao</p>
+                        </div>
+                        <div class="mt-2 row justify-content-center">
+                            <h5>Nhận xét</h5>
+                            <textarea asp-for="comment" class="col-md-11 col-12"
+                                      style="height: 8rem"></textarea>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-primary">Gửi</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</main>
+
+@section Styles{
+    <link href="~/css/detail.css" rel="stylesheet" />
+
+}
+@section Scripts{
+
+    <script src="~/js/ajaxAddCart.js"></script>
+    <script src="~/js/requireLogin.js"></script>
+    <script src="~/js/rate.js"></script>
+}

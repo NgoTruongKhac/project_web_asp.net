@@ -1,0 +1,80 @@
+﻿@{
+	ViewData["title"] = "view cart";
+	Layout = "~/Views/Shared/OrderProcess.cshtml";
+	var listCarts = ViewBag.listCarts as List<LaptopStore.Models.Cart.Cart>;
+	
+}
+
+
+@if (listCarts != null)
+{
+
+	<div class="mt-4 mb-2">
+		<input id="allCheck" class="form-check-input" type="checkbox" /> <label class="form-check-label" for="selectAll">chọn tất cả</label>
+	</div>
+
+	<form asp-action="OrderInfo" method="post" style="margin: 0;padding: 0">
+		@foreach(var cart in listCarts){
+			<div class="cartItem d-flex flex-column rounded-1 mb-2">
+				<div class="row d-flex align-items-center mt-1 mb-1">
+					<div class="col-md-1 col-2">
+						<input class="myCheckbox form-check-input" type="checkbox" name="selectCartItem" value="@cart.CartId" />
+					</div>
+					<div class="col-md-3 col-5 d-flex justify-content-center">
+						<img src="@cart.Product.Image" alt="" style="width: 55%" />
+					</div>
+					<div class="col-md-5 col-5 d-flex flex-column">
+						<a href=""
+						   style="text-decoration: none;">
+							<h6 class="d-flex justify-content-center">@cart.Product.Name</h6>
+						</a>
+						<h5 class="d-flex justify-content-center text-danger">
+							@cart.Product.Price.ToString("#,##0") đ
+						</h5>
+					</div>
+					<div class="col-md-2 col-6 d-flex flex-column">
+						<div class="d-flex flex-row d-flex align-self-center">
+							<button type="button" onclick="downQuantityCart(@cart.CartId)"
+									class="btnNumber btn">
+								<i class="bi bi-dash-lg"></i>
+							</button>
+							<input id="quantity-@cart.CartId" min="1" max="20"
+								   class="quantity" name="quantity" value="@cart.quantity"
+								   type="number" />
+							<button type="button" onclick="upQuantityCart(@cart.CartId)"
+									class="btnNumber btn">
+								<i class="bi bi-plus-lg"></i>
+							</button>
+						</div>
+					</div>
+					<div class="col-md-1 col-6">
+						<a onclick="deleteCartItem(@cart.CartId)"
+						   class="buttonDelete d-flex align-self-center">
+							<i class="trash bi bi-trash"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+		}
+		<div class="sticky-bottom d-flex justify-content-between align-items-center rounded-1 mb-2"
+			 style="margin-top: 5rem; background-color: white; z-index: 10">
+			<div class="d-flex flex-column mt-1">
+				<h5>Tính tổng:</h5>
+				<h4 class="text-danger">0 đ</h4>
+				<input id="totalPriceInput" type="text" hidden="true" name="totalPrice" value="0">
+			</div>
+			<div>
+				<button type="submit" class="btn btn-outline-primary">Mua ngay</button>
+			</div>
+		</div>
+	</form>
+}
+@section Scripts{
+	<script src="~/js/totalPrice.js"></script>
+	<script src="~/js/ajaxUpdateQuantity.js"></script>
+	<script src="~/js/ajaxDeleteCart.js"></script>
+}
+
+@section Styles{
+	<link href="~/css/listCart.css" rel="stylesheet" />
+}

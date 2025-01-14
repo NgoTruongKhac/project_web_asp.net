@@ -1,0 +1,188 @@
+﻿body {
+    .carousel
+
+{
+    width: 90%;
+    /* Điều chỉnh chiều rộng carousel (ví dụ 90% của màn hình) */
+    margin: 0 auto; /* Căn giữa carousel */
+}
+
+.carousel-inner {
+    padding: 1em;
+}
+
+.card-seller {
+    margin: 0 0.5em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    flex: 1 0 25%;
+    margin: 0 5px;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+    .card-seller:hover {
+        border: 1px solid #0d6efd;
+        transform: scale(1.01);
+        box-shadow: 0 4px 8px 0 #0dcaf0, 0 6px 20px 0 #0dcaf0;
+    }
+
+.carousel-control-prev,
+.carousel-control-next {
+    /*  background-color: #e1e1e1; */
+    width: 7vh;
+    height: 7vh;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@media (min-width: 768px) {
+    .carousel-item {
+        margin-right: 0;
+        flex: 0 0 25%;
+        display: flex;
+    }
+
+    .carousel-inner {
+        display: flex;
+    }
+
+    .spec {
+        font-size: 12.5px;
+    }
+
+    .price {
+        font-size: 20px;
+    }
+
+    .vote {
+        font-size: 15px;
+    }
+
+    .card {
+        height: 25rem;
+    }
+
+    .cardImg {
+        width: 11rem;
+        height: 11rem;
+    }
+
+    .cardSellerImg {
+        width: 10rem;
+        height: 10rem;
+        margin-top: 3px;
+    }
+
+    .titleSeller {
+        width: 380px;
+    }
+
+    .name {
+        font-size: 14px;
+    }
+
+    .nameP {
+        font-size: 15px;
+    }
+
+    .cardP {
+        height: 24rem;
+    }
+
+    .specP {
+        font-size: 13.5px;
+    }
+
+    .cardPImg {
+        width: 12rem;
+        height: 12rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .carousel-item {
+        margin-right: 0;
+        flex: 0 0 50%;
+        display: flex;
+    }
+
+    .carousel-inner {
+        display: flex;
+    }
+
+    .card-seller .img-wrapper {
+        height: 17em;
+    }
+
+    .name {
+        font-size: 12px;
+    }
+
+    .spec {
+        font-size: 11px;
+    }
+
+    .price {
+        font-size: 15px;
+    }
+
+    .vote {
+        font-size: 13px;
+    }
+
+    .card {
+        height: 25rem;
+    }
+
+    .cardImg {
+        width: 10rem;
+        height: 10rem;
+    }
+
+    .cardSellerImg {
+        width: 8.5rem;
+        height: 8.5rem;
+    }
+
+    .titleSeller {
+        width: 300px;
+    }
+
+    .cardPImg {
+        width: 11rem;
+        height: 11rem;
+    }
+
+    .nameP {
+        font-size: 12.5px;
+    }
+
+    .specP {
+        font-size: 11.5px;
+    }
+}
+
+.card-seller.img-wrapper {
+    max-width: 100%;
+    height: 13em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-seller img {
+    max-height: 100%;
+}
+
+.card:hover {
+    border: 1px solid #0d6efd;
+    transform: scale(1.01);
+    box-shadow: 0 4px 8px 0 #0dcaf0, 0 6px 20px 0 #0dcaf0;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+}

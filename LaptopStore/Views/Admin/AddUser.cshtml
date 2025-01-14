@@ -1,0 +1,137 @@
+﻿@{
+
+	Layout = "~/Views/Shared/Admin.cshtml";
+
+	ViewData["Title"] = "Add user";
+}
+
+@model LaptopStore.Models.Account.User
+<div class="mb-5 mt-2 d-flex justify-content-center">
+	<h4>Thêm Tài Khoản</h4>
+</div>
+
+<form asp-action="AddUser" method="post">
+	<div class="row rounded-1 pt-4 " style="border: solid 1px">
+		<div class="col-md-6 col-12">
+			<div class="row">
+				<input type="hidden" asp-for="UserId" >
+			
+				<div class="col-5 mb-3">
+					<input name="firstName" class="form-control" type="text"
+						   placeholder="Tên" />
+				</div>
+				<div class="col-7 mb-3">
+					<input asp-for="LastName" class="form-control" type="text"
+						   placeholder="Họ"  />
+				</div>
+			</div>
+			<div class="mb-3">
+				<input asp-for="Pass" class="form-control" type="password"
+					   placeholder="mật khẩu" />
+			</div>
+			<div class="mb-3">
+				<input id="EmailOrPhone" asp-for="Email" class="form-control" type="email"
+					   placeholder="email" onblur="checkEmailRegister()" />
+				<span id="errorCheckEmail" class="text-danger" style="display: none"></span>
+			</div>
+			<div class="mb-3">
+				<input asp-for="PhoneNumber" class="form-control" type="text"
+					   placeholder="Số điện thoại"  />
+			</div>
+		</div>
+		<div class="col-md-6 col-12">
+			<div class="avatar-picker mb-3 d-flex justify-content-center">
+				<img class="avatar rounded-circle" width="18%"
+					 src="/image/blank_avatar.png"
+					 alt="Avatar" id="selected-avatar">
+
+
+				<input asp-for="Avatar" type="hidden" id="avatarSrc"
+					   >
+			</div>
+			<div class="avatar-options" id="avatar-options">
+				<img src="/image/boy.png" alt="Boy"
+					 onclick="selectAvatar('/image/boy.png')" />
+				<img src="/image/girl.png" alt="Girl"
+					 onclick="selectAvatar('/image/girl.png')" />
+				<img src="/image/men.png" alt="Man"
+					 onclick="selectAvatar('/image/men.png')">
+				<img src="/image/women.png" alt="Woman"
+					 onclick="selectAvatar('/image/women.png')" />
+				<img src="/image/men2.png" alt="Men2"
+					 onclick="selectAvatar('/image/men2.png')" />
+				<img src="/image/girl2.png" alt="Girl2"
+					 onclick="selectAvatar('/image/girl2.png')" />
+				<img src="/image/blank_avatar.png" alt="blank"
+					 onclick="selectAvatar('/image/blank_avatar.png')" />
+				<img src="/image/boy2.png" alt="Boy2"
+					 onclick="selectAvatar('/image/boy2.png')" />
+				<img src="/image/girl3.png" alt="Girl3"
+					 onclick="selectAvatar('/image/girl3.png')" />
+			</div>
+
+
+			<div class="mb-3 ms-3 d-flex flex-row">
+				<div class="mb-1">
+					<label class="form-check me-2" for="">Ngày sinh :</label>
+				</div>
+				<div>
+					<input class="form-control" type="date" asp-for="Birthday"
+						   pattern='yyyy-MM-dd' required="required"
+						  />
+				</div>
+			</div>
+			<div class="mb-3 ms-3 d-flex flex-row">
+				<div class="mb-1">
+					<label class="form-check me-2" for="">Giới tính :</label>
+				</div>
+
+				<div class="form-check form-check-inline">
+					<input id="male" class="form-check-input" type="radio" asp-for="Sex" value="Nam" />
+					<label class="form-check-label" for="male">Nam</label>
+				</div>
+				<div class="form-check form-check-inline">
+					<input id="female" class="form-check-input" type="radio" asp-for="Sex" value="Nữ" />
+					<label class="form-check-label" for="female">Nữ</label>
+				</div>
+
+			</div>
+			<div class="mb-3 ms-3 d-flex flex-row">
+				<div class="mb-1">
+					<label class="form-check me-2" for="">Vai trò:</label>
+				</div>
+
+				<div class="form-check form-check-inline">
+					<input id="admin" asp-for="Role" class="form-check-input"
+						   type="radio" value="admin" /> <label class="form-check-label" for="admin">admin</label>
+				</div>
+				<div class="form-check form-check-inline">
+					<input id="customer" asp-for="Role" class="form-check-input"
+						   type="radio" value="customer" /> <label class="form-check-label" for="customer">customer</label>
+				</div>
+			</div>
+		</div>
+		<div class="d-flex justify-content-center mb-3">
+			<button class="btn btn-outline-primary" type="submit">
+				Thêm
+			</button>
+
+		</div>
+
+	</div>
+</form>
+
+@section Scripts {
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+			integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+			crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="~/js/ajaxCheckEmail.js">
+
+	<script src="~/js/selectAvatar.js"></script>
+
+}
+@section Styles {
+
+	<link href="~/css/avatar.css" rel="stylesheet" />
+
+}

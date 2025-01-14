@@ -1,0 +1,116 @@
+﻿@{
+
+	Layout = "~/Views/Shared/Admin.cshtml";
+
+	ViewData["Title"] = "Edit product";
+
+	var product = ViewBag.product;
+}
+@model LaptopStore.Models.Home.ProductVM
+
+<div class="mb-5 mt-2 d-flex justify-content-center">
+	<h4>Sửa Tài Khoản</h4>
+</div>
+<form asp-action="EditProduct" method="post" enctype="multipart/form-data" class="rounded-1 p-4" style="border: solid 1px">
+
+	<div class="row">
+		<div class="col-md-5 col-12">
+			<input type="hidden" name="page" value="@ViewBag.page">
+			<input asp-for="ProductId" type="hidden"  value="@product.ProductId" />
+
+			<div class="mb-3">
+				<input asp-for="Name" id="name" class="form-control" type="text"
+					   placeholder="Tên" value="@product.Name"  />
+			</div>
+			<div class="mb-3">
+				<input asp-for="Price" id="price" class="form-control" type="text"
+					   placeholder="Giá" value="@product.Price" />
+			</div>
+			<div class="mb-3">
+				<input asp-for="Brand" id="brand" class="form-control" type="text"
+					   placeholder="Thương hiệu" value="@product.Brand" />
+			</div>
+			<div class="mb-1">
+				<input asp-for="productdetail.Category" id="category" class="form-control" type="text"
+					   placeholder="Loại" value="@product.productdetail.Category " />
+			</div>
+		</div>
+		<div class="col-md-7 col-12">
+			<div class="row">
+				<div class="col-6 mb-3">
+					<label for="file-upload-edit" class="custom-file-upload">
+						<i class="bi bi-upload me-1"></i> Ảnh
+					</label> <input asp-for="ImageFile" onchange="changeImage()" id="file-upload-edit"
+							   type="file" accept="image/*" name="file-upload-edit"
+							   style="display: none;" />
+
+					<!-- Vùng hiển thị bản xem trước -->
+				</div>
+
+				<input  type="hidden" value="@product.Image"
+					   name="imagePath">
+				<div class="col-6">
+					
+							<img id="preview-edit"
+						 src="@product.Image"
+								 style="display: block;" name="preview-edit" />
+					
+
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-6">
+					<div class="mb-3">
+						<input id="cpu" class="form-control" type="text"
+							   placeholder="CPU" value="@product.productdetail.Cpu" />
+					</div>
+					<div class="mb-3">
+						<input id="gpu" class="form-control" type="text"
+							   placeholder="GPU" value="@product.productdetail.Gpu" />
+					</div>
+					<div class="mb-1">
+						<input id="ram" class="form-control" type="text"
+							   placeholder="RAM" value="@product.productdetail.Ram" />
+					</div>
+				</div>
+				<div class="col-6">
+					<div class="mb-3">
+						<input id="drive" class="form-control" type="text"
+							   placeholder="Dung lượng lưu trữ" value="@product.productdetail.Drive" />
+					</div>
+					<div class="mb-3">
+						<input id="size" class="form-control" type="text"
+							   placeholder="kích thước màn hình" value="@product.productdetail.Size" />
+					</div>
+					<div class="mb-1">
+						<input id="resolution" class="form-control" type="text"
+							   placeholder="Độ phân giải" value="@product.productdetail.Resolution" />
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		<div>
+			<div>
+				<label class="form-label" for="">Mô tả chi tiết</label>
+			</div>
+			<input  asp-for="Description" class="form-control" type="text" 
+					value="@product.Description" />
+
+			<textarea  id="description" class="form-control"
+					  rows="4">@product.Description</textarea>
+
+
+		</div>
+
+	</div>
+	<div class="d-flex justify-content-center mt-3">
+		<button class="btn btn-outline-primary" type="submit">
+			Thêm
+		</button>
+
+	</div>
+
+
+</form>

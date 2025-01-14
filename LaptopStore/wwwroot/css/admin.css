@@ -83,11 +83,8 @@
     border: solid 1px #0d6efd;
 }
 
-
-#navbarDropdown {
-    background: none;
-    border: none;
-    color: #0d6efd;
+#navbarDropdown:hover {
+    color: black;
 }
 
 .dropdown-menu .dropdown-item:hover {
@@ -138,4 +135,31 @@
         height: 95vh;
         overflow-x: hidden;
     }
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 6px 10px 6px 10px;
+}
+
+#preview-add, #preview-p, #preview-p-edit {
+    max-width: 55px;
+    display: none; /* Ẩn ảnh trước khi chọn tệp */
+}
+
+@media ( max-width : 768px) {
+    input::placeholder, label {
+        font-size: 13px;
+    }
+
+    input, label {
+        height: 25px;
+    }
+}
+
+#preview-edit {
+    max-width: 55px;
+    display: none; /* Ẩn ảnh trước khi chọn tệp */
 }

@@ -1,0 +1,39 @@
+﻿@{
+	Layout = null;
+}
+
+@model List<LaptopStore.Models.Home.Product>
+
+<div class="p-1 rounded-2"
+	 style="background-color: white; border: solid 1px;">
+	 @if(Model !=null){
+	@foreach(var product in Model){
+		<a asp-controller="Home" asp-action="Detail" asp-route-id="@product.ProductId" style="text-decoration: none; color: black;">
+			<div class="product-suggest d-flex align-items-center rounded-1 mt-1"
+				 style="border: solid 1px #0d6efd">
+				<div class="col-md-2 col-2 ms-2">
+					<img class="image-search" src="@product.Image" alt="" />
+				</div>
+				<div class="row col-md-10 col-10">
+					<div class="name-search">
+						<p>@product.Name</p>
+					</div>
+					<div class="price-search">
+						<p class="text-danger">
+							@product.Price.ToString("#,##0") đ
+						</p>
+					</div>
+				</div>
+			</div>
+		</a>
+	}
+	}
+	@if(!Model.Any()){
+		<div style="margin-bottom: -10px; margin-top: 10px;">
+			<p class="text-center text-muted">
+				Không tìm thấy sản phẩm phù
+				hợp.
+			</p>
+		</div>
+	}
+</div>

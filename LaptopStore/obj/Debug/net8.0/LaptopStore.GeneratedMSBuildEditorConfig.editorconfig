@@ -42,8 +42,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxWZXJpZnlSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Admin/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Admin/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Admin/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Admin/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Admin/Order.cshtml]
@@ -58,12 +74,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Cart/OrderComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxPcmRlckNvbXBsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Cart/OrderInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxPcmRlckluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Cart/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxQYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Cart/ViewCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxWaWV3Q2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Home/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Home/FilterProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaWx0ZXJQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Home/LoadMoreProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2FkTW9yZVByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Home/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Shared/Admin.cshtml]
@@ -76,6 +124,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Shared/OrderProcess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE9yZGVyUHJvY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Shared/Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhZ2luYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Asp.net mvc/LaptopStore/LaptopStore/Views/Shared/_ValidationScriptsPartial.cshtml]

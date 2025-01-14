@@ -1,11 +1,12 @@
 ﻿@using System.Text.Json
 @using LaptopStore.Models.Account
-
 @{
 	// Lấy dữ liệu User từ Session
 	var userJson = Context.Session.GetString("User");
 	User user = null;
-
+	//lấy dữ liệu cart
+	int? quantityCart = Context.Session.GetInt32("quantityCart");
+	
 	if (!string.IsNullOrEmpty(userJson))
 	{
 		user = JsonSerializer.Deserialize<User>(userJson);
@@ -29,15 +30,14 @@
 		  integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
 		  crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+	@RenderSection("Styles", required: false);
 
 	
 </head>
 <body >
 	<header class="sticky-top bg-white shadow-sm">
 
-		
-
-			<div class="container mt-2 mb-1">
+			<div class="container mb-1" style="margin-top: -10px">
 				<div class=row>
 
 					<div class="col-md-3 col-2 mb-1 d-flex align-items-center">
@@ -49,22 +49,40 @@
 
 						<form class="d-flex" role="search">
 							<div class="w-75">
-								<input class="form-control me-2 " type="search"
+							<input id="searchInput" class="form-control me-2 " type="search"
 									   placeholder="Tìm kiếm" aria-label="Search">
 							</div>
 							<button id="btn-search" class="ms-2 btn btn-outline-primary btn-sm "
-									 type="submit">
+									 type="submit" onkeyup="search()">
 								Tìm kiếm
 							</button>
 						</form>
+
+					<div id="listProductSuggest" class="row mt-2"
+						 style="position: fixed;">
+						@if (Model !=null)
+						{
+							@Html.Partial("~/Views/Home/Search.cshtml");
+							
+						}
+						
+					</div>
 
 					</div>
 					<div class="user col-md-3 col-8 d-flex justify-content-evenly align-items-center">
 
 						<div class="cart">
-							<a href="${pageContext.request.contextPath}/viewCart"
+							<a asp-controller="Cart" asp-action="ViewCart"
 							   title="Giỏ hàng" style="text-decoration: none;">
 								<i class="cart bi bi-cart"></i>
+							@if (user !=null)
+							{
+								<span id="cartCount"
+									  class="badge text-bg-danger me-2">
+									@quantityCart
+								</span>
+							}
+							
 							</a>
 						</div>
 
@@ -181,16 +199,6 @@
 										lọc laptop
 									</button>
 								</li>
-
-
-								<li>
-									<button class="dropdown-item" data-bs-toggle="modal"
-											data-bs-target="#filterPeripheral">
-										lọc phụ kiện
-									</button>
-								</li>
-
-
 							</ul>
 						</li>
 
@@ -200,8 +208,11 @@
 				</div>
 			</nav>
 			
+			
 		
     </header>
+	@Html.Partial("~/Views/Home/FilterProduct.cshtml")
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -337,6 +348,10 @@
 	<script src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 	<script src="~/js/confirmLogout.js"></script>
+	<script src="~/js/search.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.0/nouislider.min.js"></script>
+	
+
      @Html.Partial("~/Views/Shared/alert.cshtml");
     @await RenderSectionAsync("Scripts", required: false)
 </body>

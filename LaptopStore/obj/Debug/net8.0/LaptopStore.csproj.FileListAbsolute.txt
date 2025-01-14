@@ -103,3 +103,4 @@ D:\Asp.net mvc\LaptopStore\LaptopStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAn
 D:\Asp.net mvc\LaptopStore\LaptopStore\obj\Debug\net8.0\LaptopStore.csproj.AssemblyReference.cache
 D:\Asp.net mvc\LaptopStore\LaptopStore\obj\Debug\net8.0\LaptopSt.B990EE9C.Up2Date
 D:\Asp.net mvc\LaptopStore\LaptopStore\bin\Debug\net8.0\BCrypt.Net-Core.dll
+D:\Asp.net mvc\LaptopStore\LaptopStore\obj\Debug\net8.0\LaptopStore.sourcelink.json

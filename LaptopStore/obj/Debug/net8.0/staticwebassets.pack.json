@@ -9,6 +9,38 @@
       "PackagePath": "staticwebassets\\css\\admin.css"
     },
     {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\avatar.css",
+      "PackagePath": "staticwebassets\\css\\avatar.css"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\detail.css",
+      "PackagePath": "staticwebassets\\css\\detail.css"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\listCart.css",
+      "PackagePath": "staticwebassets\\css\\listCart.css"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\orderComplete.css",
+      "PackagePath": "staticwebassets\\css\\orderComplete.css"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\orderInfo.css",
+      "PackagePath": "staticwebassets\\css\\orderInfo.css"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\payment.css",
+      "PackagePath": "staticwebassets\\css\\payment.css"
+    },
+    {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\styleFooter.css",
       "PackagePath": "staticwebassets\\css\\styleFooter.css"
     },
@@ -23,6 +55,10 @@
     {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\Facebook.png",
       "PackagePath": "staticwebassets\\image\\Facebook.png"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\Sản Phẩm Bán Chạy.png",
+      "PackagePath": "staticwebassets\\image\\Sản Phẩm Bán Chạy.png"
     },
     {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\Tiktokpng.png",
@@ -45,12 +81,44 @@
       "PackagePath": "staticwebassets\\image\\blank_avatar.png"
     },
     {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\boy.png",
+      "PackagePath": "staticwebassets\\image\\boy.png"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\boy2.png",
+      "PackagePath": "staticwebassets\\image\\boy2.png"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\cod.png",
+      "PackagePath": "staticwebassets\\image\\cod.png"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\girl.png",
+      "PackagePath": "staticwebassets\\image\\girl.png"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\girl2.png",
+      "PackagePath": "staticwebassets\\image\\girl2.png"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\girl3.png",
+      "PackagePath": "staticwebassets\\image\\girl3.png"
+    },
+    {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\laptopStoreLogo.png",
       "PackagePath": "staticwebassets\\image\\laptopStoreLogo.png"
     },
     {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\masterCard.png",
       "PackagePath": "staticwebassets\\image\\masterCard.png"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\men.png",
+      "PackagePath": "staticwebassets\\image\\men.png"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\men2.png",
+      "PackagePath": "staticwebassets\\image\\men2.png"
     },
     {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\napas.png",
@@ -65,6 +133,10 @@
       "PackagePath": "staticwebassets\\image\\vnpay.png"
     },
     {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\women.png",
+      "PackagePath": "staticwebassets\\image\\women.png"
+    },
+    {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\image\\youtube.png",
       "PackagePath": "staticwebassets\\image\\youtube.png"
     },
@@ -77,12 +149,60 @@
       "PackagePath": "staticwebassets\\js\\admin.js"
     },
     {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
+      "PackagePath": "staticwebassets\\js\\ajaxAddCart.js"
+    },
+    {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
       "PackagePath": "staticwebassets\\js\\ajaxCheckEmail.js"
     },
     {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxDeleteCart.js",
+      "PackagePath": "staticwebassets\\js\\ajaxDeleteCart.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
+      "PackagePath": "staticwebassets\\js\\ajaxLoadmore.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxUpdateQuantity.js",
+      "PackagePath": "staticwebassets\\js\\ajaxUpdateQuantity.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\alertDelete.js",
+      "PackagePath": "staticwebassets\\js\\alertDelete.js"
+    },
+    {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\confirmLogout.js",
       "PackagePath": "staticwebassets\\js\\confirmLogout.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\payment.js",
+      "PackagePath": "staticwebassets\\js\\payment.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\previewImage.js",
+      "PackagePath": "staticwebassets\\js\\previewImage.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\rate.js",
+      "PackagePath": "staticwebassets\\js\\rate.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\requireLogin.js",
+      "PackagePath": "staticwebassets\\js\\requireLogin.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\selectAvatar.js",
+      "PackagePath": "staticwebassets\\js\\selectAvatar.js"
     },
     {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\site.js",
@@ -91,6 +211,10 @@
     {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\timeOutVerify.js",
       "PackagePath": "staticwebassets\\js\\timeOutVerify.js"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\totalPrice.js",
+      "PackagePath": "staticwebassets\\js\\totalPrice.js"
     },
     {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -495,6 +619,22 @@
     {
       "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\uploadFile.cs",
+      "PackagePath": "staticwebassets\\uploadFile.cs"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\uploadFile\\696ccbea-57a1-4348-8d16-90444266955b_5fd582cc-e30c-4791-bc51-eaae902ccf0b.913cc3ef013b8a7676691f728b8951cd.webp",
+      "PackagePath": "staticwebassets\\uploadFile\\696ccbea-57a1-4348-8d16-90444266955b_5fd582cc-e30c-4791-bc51-eaae902ccf0b.913cc3ef013b8a7676691f728b8951cd.webp"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\uploadFile\\69ce46d6-7eb4-47c1-9590-b86e578cb09a_download.jpg",
+      "PackagePath": "staticwebassets\\uploadFile\\69ce46d6-7eb4-47c1-9590-b86e578cb09a_download.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\uploadFile\\b507701a-5826-47a3-baad-d8f18d879812_download.jpg",
+      "PackagePath": "staticwebassets\\uploadFile\\b507701a-5826-47a3-baad-d8f18d879812_download.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LaptopStore.Microsoft.AspNetCore.StaticWebAssets.props",
