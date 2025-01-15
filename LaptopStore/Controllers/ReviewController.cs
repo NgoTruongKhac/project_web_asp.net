@@ -20,6 +20,8 @@ namespace LaptopStore.Controllers
             await connectDatabase.reviews.AddAsync(review);
             await connectDatabase.SaveChangesAsync();
 
+            ViewBag.message = "thêm nhận xét thành công";
+            ViewBag.type = "success";
             return RedirectToAction("Detail", "Home", new { id = review.ProductId });
 
         }
@@ -28,44 +30,6 @@ namespace LaptopStore.Controllers
 
 
 
-        private double Rate(List<Reviews> listReview)
-        {
-            if (listReview.Count == 0)
-            {
-                return 0.0; // Nếu không có review, trả về 0
-            }
-
-            int totalRate = 0;
-            foreach (var review in listReview)
-            {
-                totalRate += review.Rate;
-            }
-
-            return (double)totalRate / listReview.Count; // Chia cho số lượng review
-        }
-
-        private Dictionary<int, int> CalculateStarStatistics(List<Reviews> listReview)
-        {
-            var starStatistics = new Dictionary<int, int>();
-
-            // Khởi tạo từ 1 đến 5 sao với giá trị ban đầu là 0
-            for (int i = 1; i <= 5; i++)
-            {
-                starStatistics[i] = 0;
-            }
-
-            // Duyệt qua danh sách review và tính số lượng đánh giá cho từng sao
-            foreach (var review in listReview)
-            {
-                int rate = review.Rate;
-                if (starStatistics.ContainsKey(rate))
-                {
-                    starStatistics[rate]++;
-                }
-            }
-
-            return starStatistics;
-        }
 
 
     }

@@ -2,6 +2,7 @@
 
 using LaptopStore.Models;
 using LaptopStore.Models.Account;
+using LaptopStore.Models.Cart;
 using LaptopStore.Models.Home;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
@@ -242,10 +243,11 @@ namespace LaptopStore.Controllers
 		}
 
 
-			public IActionResult Order()
+	public async Task<IActionResult> Order()
 		{
-			
-			return View();
+			List<Order> listOrders = await connectDatabase.orders.ToListAsync(); 
+
+			return View(listOrders);
 		}
 
 		[HttpPost]

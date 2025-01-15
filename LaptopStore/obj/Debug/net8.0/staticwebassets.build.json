@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vY4seCuNSiMQGC9iJoXMd7Bfr08f2dgetCyL3MKi2G0=",
+  "Hash": "ybXEv9vKdteLp+C1Eof62f6iosBwk0v2JDCZ8a4cVQk=",
   "Source": "LaptopStore",
   "BasePath": "_content/LaptopStore",
   "Mode": "Default",
@@ -3036,6 +3036,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploadFile\\69ce46d6-7eb4-47c1-9590-b86e578cb09a_download.jpg"
+    },
+    {
+      "Identity": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\uploadFile\\71f569fd-14d5-4504-b5a6-c0a7b3f001b3_download (1).jpg",
+      "SourceId": "LaptopStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\",
+      "BasePath": "_content/LaptopStore",
+      "RelativePath": "uploadFile/71f569fd-14d5-4504-b5a6-c0a7b3f001b3_download (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploadFile\\71f569fd-14d5-4504-b5a6-c0a7b3f001b3_download (1).jpg"
     },
     {
       "Identity": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\uploadFile\\b507701a-5826-47a3-baad-d8f18d879812_download.jpg",

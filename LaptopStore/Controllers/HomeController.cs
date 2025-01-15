@@ -31,7 +31,7 @@ namespace LaptopStore.Controllers
             var topSellingProducts = await connectDatabase.orderDetails
                 .GroupBy(od => od.ProductId) // Nhóm theo ProductId
                 .OrderByDescending(g => g.Sum(od => od.Quantity)) // Sắp xếp theo tổng số lượng bán (lượt mua)
-                .Take(8) // Lấy 8 sản phẩm bán chạy nhất
+                .Take(10) // Lấy 8 sản phẩm bán chạy nhất
                 .Select(g => g.Key) // Lấy ProductId của các sản phẩm bán chạy
                 .ToListAsync();
             var topSellingProductList = await connectDatabase.products
@@ -63,9 +63,14 @@ namespace LaptopStore.Controllers
                 .Include(p => p.productdetail) // Bao gồm thông tin chi tiết sản phẩm
                 .FirstOrDefaultAsync(p => p.ProductId == id); // Tìm sản phẩm với ID tương ứng
             ViewBag.ProductDetail = product;
-            List<Reviews> listReviews = await connectDatabase.reviews.Where(r => r.ProductId == id).ToListAsync();
+            List<Reviews> listReviews = await connectDatabase.reviews.Include(r=>r.User).Where(r => r.ProductId == id).ToListAsync();
             double rate = Rate(listReviews);
             Dictionary<int, int> starStatistics=CalculateStarStatistics(listReviews);
+            foreach (Reviews r in listReviews)
+            {
+                Console.WriteLine(r.UserId);
+                Console.WriteLine(r.ProductId);
+            }
             ViewBag.ListReviews = listReviews;
             ViewBag.StarStatistics = starStatistics;
             ViewBag.rate=rate;
@@ -96,9 +101,9 @@ namespace LaptopStore.Controllers
         }
         private double Rate(List<Reviews> listReview)
         {
-            if (listReview.Count == 0)
+            if (listReview == null || listReview.Count == 0)
             {
-                return 0.0; // Nếu không có review, trả về 0
+                return 0.0; // Nếu danh sách rỗng hoặc null, trả về 0
             }
 
             int totalRate = 0;
@@ -107,8 +112,9 @@ namespace LaptopStore.Controllers
                 totalRate += review.Rate;
             }
 
-            return (double)totalRate / listReview.Count; // Chia cho số lượng review
+            return (double)totalRate / listReview.Count;
         }
+
 
         private Dictionary<int, int> CalculateStarStatistics(List<Reviews> listReview)
         {

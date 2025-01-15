@@ -2,7 +2,7 @@
 
     ViewData["Title"] = "detail product";
     var product = ViewBag.ProductDetail;
-    var listReview = ViewBag.ListReviews as List<LaptopStore.Models.Reviews.Reviews>;
+    List<LaptopStore.Models.Reviews.Reviews> listReview = ViewBag.ListReviews;
     var StarStatistics = ViewBag.StarStatistics;
     var Rate = ViewBag.rate;
 }
@@ -116,6 +116,7 @@
                 </div>
                 <hr />
                 <div class="col-md-5 col-8 ms-4 d-flex flex-column-reverse">
+                    @if(listReview!=null){
                     @for (var star = 1; star <= 5; star++)
                     {
                         <div class="row d-flex align-items-center">
@@ -136,7 +137,7 @@
                             </div>
                         </div>
                     }
-
+                    }
 
 
                 </div>
@@ -159,6 +160,8 @@
                 </div>
             </div>
             <hr class="mt-4" />
+           
+            @if(listReview!=null){
             @foreach(var review in listReview){
                 <div class="ms-3">
                     <div class="d-flex flex-row">
@@ -187,6 +190,7 @@
                         </div>
                     </div>
                 </div>
+            }
             }
         </div>
     </div>

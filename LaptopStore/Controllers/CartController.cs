@@ -4,6 +4,7 @@ using LaptopStore.Models.Account;
 using LaptopStore.Models.Cart;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using System.Text.Json;
 
 namespace LaptopStore.Controllers
@@ -82,7 +83,9 @@ namespace LaptopStore.Controllers
 			var selectedCarts = await connectDatabase.carts
 										.Include(c=>c.Product).Where(c => selectCartItem.Contains(c.CartId))
 										.ToListAsync();
-			ViewBag.selectedCarts = selectedCarts;
+
+            HttpContext.Session.SetString("listCart", JsonSerializer.Serialize(selectedCarts));
+            ViewBag.selectedCarts = selectedCarts;
 			ViewBag.address=address;
 			HttpContext.Session.SetInt32("totalPrice", totalPrice);
 			// Thực hiện các logic khác, ví dụ chuyển sang trang xác nhận đơn hàng
@@ -137,9 +140,14 @@ namespace LaptopStore.Controllers
 		public async Task<IActionResult> OrderComplete(string payment, int finalPrice)
 		{
 			string orderStr = HttpContext.Session.GetString("orderInfo");
+            string cartStr = HttpContext.Session.GetString("listCart");
 
+            var listCartJson = HttpContext.Session.GetString("listCart");
+            List<Cart> listCart = listCartJson != null
+                ? JsonSerializer.Deserialize<List<Cart>>(listCartJson)
+                : new List<Cart>();
 
-			OrderInfo orderInfo = JsonSerializer.Deserialize<OrderInfo>(orderStr);
+            OrderInfo orderInfo = JsonSerializer.Deserialize<OrderInfo>(orderStr);
 
 			Order order = new Order
 			{
@@ -150,11 +158,32 @@ namespace LaptopStore.Controllers
 
 			await connectDatabase.orders.AddAsync(order);
 
-			await connectDatabase.orderInfo.AddAsync(orderInfo);
 
 			await connectDatabase.SaveChangesAsync();
 
-			return View();
+          
+            // Thêm OrderInfo vào cơ sở dữ liệu
+            // Lấy OrderId vừa tạo
+            int orderId = order.OrderId;
+            orderInfo.OrderId = orderId;
+
+            await connectDatabase.orderInfo.AddAsync(orderInfo);
+            // Tạo danh sách OrderDetail từ listCart
+            var orderDetails = listCart.Select(cart => new OrderDetail
+            {
+                OrderId = orderId,
+                ProductId = cart.Product.ProductId,
+                Quantity = cart.quantity
+            }).ToList();
+
+            // Thêm danh sách OrderDetail vào cơ sở dữ liệu
+            await connectDatabase.orderDetails.AddRangeAsync(orderDetails);
+
+            // Lưu thay đổi
+            await connectDatabase.SaveChangesAsync();
+
+
+            return View();
 
 		}
 

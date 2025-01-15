@@ -14,7 +14,7 @@ function requireLogin() {
 			// Nếu người dùng chọn "Đồng ý", chuyển hướng đến servlet logout
 
 
-			window.location.href=contextPath + "/Account/Login";
+			window.location.href = window.location.origin+"/Account/Login";
 
 		}
 	});

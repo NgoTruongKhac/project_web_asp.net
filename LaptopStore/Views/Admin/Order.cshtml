@@ -1,5 +1,92 @@
 ﻿@{
-    Layout = "~/Views/Shared/Admin.cshtml";
+	Layout = "~/Views/Shared/Admin.cshtml";
+	ViewData["Title"] = "List order";
+
+	Page pager = new Page();
+
+	int pageNo = 0;
+	if (ViewBag.Page != null)
+	{
+		pager = ViewBag.Page;
+		pageNo = pager.CurrentPage;
+	}
 }
 
-<h1>Admin Order</h1>
+@model List<LaptopStore.Models.Cart.Order>
+
+<div class="mb-2 d-flex justify-content-center">
+	<h4>Đơn hàng</h4>
+</div>
+<div id="listOrderManage">
+	<div class="table-responsive">
+		<table id="orderTable" class="table table table-bordered table-striped text-center"
+			   style="vertical-align: middle;">
+			<thead>
+				<tr>
+					<th scope="col" class="col-md">OrderId</th>
+					<th scope="col" class="col-md">UserId</th>
+					<th scope="col" class="col-md">Tổng giá</th>
+					<th scope="col" class="col-md">Pt thanh toán</th>
+					<th scope="col" class="col-md">ngày đặt</th>
+					<th scope="col" class="col-md">Trạng thái</th>
+					<th scope="col" class="col-md">Chi tiết</th>
+					<th scope="col" class="col-md">Hành động</th>
+				</tr>
+			</thead>
+			<tbody>
+				
+					@foreach(var order in Model){
+						<tr>
+							<th scope="row">@order.OrderId</th>
+							<td>@order.UserId</td>
+							<td>
+							@order.TotalPrice.ToString("#,##0")
+						</td>
+							<td>@order.Payment</td>
+							<td>@order.OrderDate</td>
+							<td>@order.State</td>
+							<td>
+								<button data-bs-toggle="modal"
+										data-bs-target="#orderDetail" class="btn btn-primary"
+										onclick="orderDetail(${order.orderId},${pageOrder})">
+									chi
+									tiết
+								</button>
+							</td>
+							<c:if test="${order.state == 'chưa xác nhận'}">
+								<td>
+									<button onclick="confirmOrder(${order.orderId}, ${pageOrder})"
+											class="btn btn-success">
+										xác nhận
+									</button>
+								</td>
+							</c:if>
+							
+						</tr>
+				}
+				
+			</tbody>
+
+		</table>
+	</div>
+	<partial name="Pagination" model="@pager"></partial>
+
+</div>
+
+@section Scripts {
+
+	<script src="//cdn.datatables.net/2.2.0/js/dataTables.min.js"></script>
+	<script src="~/js/alertDelete.js"></script>
+	<script>
+
+		let table = new DataTable('#orderTable', {
+			paging: false,        // Tắt phân trang
+			lengthChange: false,  // Tắt phần "Show entries"
+			info: false           // Tắt phần hiển thị thông tin tổng số dòng
+		});
+
+	</script>
+}
+@section Styles {
+	<link href="//cdn.datatables.net/2.2.0/css/dataTables.dataTables.min.css" rel="stylesheet" />
+}

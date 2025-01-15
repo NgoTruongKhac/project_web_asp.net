@@ -3,32 +3,136 @@
   "WorkspaceRootPath": "D:\\Asp.net mvc\\LaptopStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\orderinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\cart\\orderinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\ordercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\cart\\ordercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\filterproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\filterproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\loadmoreproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\loadmoreproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxloadmore.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxloadmore.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxdeletecart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxdeletecart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxaddcart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxaddcart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxcheckemail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxcheckemail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\cart\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\cart\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\cart\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\cart\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\cart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\home\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\home\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\data\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\data\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\reviews\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\reviews\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\requirelogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\requirelogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\rate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -43,34 +147,6 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\filterproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\filterproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\ordercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\cart\\ordercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114130030_reviewsDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LaptopStore\\Migrations\\20250114130030_reviewsDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\data\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\data\\connectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\reviews\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\reviews\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\cart\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\cart\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,20 +155,12 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\migrations\\20250114111634_orderinfodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\pagination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\pagination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\orderprocess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -107,24 +175,12 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\home\\loadmoreproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\home\\loadmoreproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\controllers\\userinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\cart\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\cart\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\registerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,10 +195,6 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\home\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\home\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\userinfoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\userinfoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -155,28 +207,12 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\orderinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\cart\\orderinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\cart\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\cart\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\cart\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\home\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\home\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\migrations\\20241209131636_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\migrations\\20241209131636_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\orderinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -187,18 +223,6 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\payment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\cart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\cart\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\views\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\cart\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\cart\\orderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -207,20 +231,8 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\avatar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxdeletecart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxdeletecart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxupdatequantity.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxupdatequantity.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxaddcart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxaddcart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\requirelogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\requirelogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -263,16 +275,8 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\confirmlogout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxloadmore.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxloadmore.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\selectavatar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\selectavatar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\ajaxcheckemail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\ajaxcheckemail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\stylenavbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -347,10 +351,6 @@
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\js\\addressvietnamapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\js\\addressvietnamapi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -361,10 +361,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\models\\account\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\models\\account\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\wwwroot\\css\\detail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -397,6 +393,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|d:\\asp.net mvc\\laptopstore\\laptopstore\\migrations\\20250114130030_reviewsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AE7C1-2652-4D3F-B4DD-331EAFDF16A2}|LaptopStore\\LaptopStore.csproj|solutionrelative:laptopstore\\migrations\\20250114130030_reviewsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -406,7 +406,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -414,176 +414,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\CartController.cs",
-              "RelativeToolTip": "LaptopStore\\Controllers\\CartController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAJMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T15:55:44.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Detail.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\Detail.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Detail.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Home\\Detail.cshtml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHUAAABMAAAAAAAAAA==",
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Order.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Order.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Order.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\Order.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T10:55:29.928Z",
+              "WhenOpened": "2025-01-09T06:13:25.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "LaptopStore\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T18:45:00.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReviewController.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\ReviewController.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\ReviewController.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\ReviewController.cs",
-              "RelativeToolTip": "LaptopStore\\Controllers\\ReviewController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:05:43.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Product.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Product.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Product.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\Product.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T08:23:42.808Z",
+              "WhenOpened": "2025-01-09T09:51:43.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LaptopStore\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAowEUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:26:36.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "LaptopStore\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T19:27:27.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "rate.js",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\rate.js",
-              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\rate.js",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\rate.js",
-              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\rate.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-14T13:32:25.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthorizationFilter.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Authorization\\AuthorizationFilter.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Authorization\\AuthorizationFilter.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Authorization\\AuthorizationFilter.cs",
-              "RelativeToolTip": "LaptopStore\\Authorization\\AuthorizationFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T15:23:20.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "alert.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\alert.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\alert.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\alert.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Shared\\alert.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T08:23:23.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FilterProduct.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\FilterProduct.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\FilterProduct.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\FilterProduct.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Home\\FilterProduct.cshtml",
-              "ViewState": "AgIAADMBAAAAAAAAAAAAACYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T12:25:10.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEsBAAAAAAAAAAAAAGMBAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T20:07:24.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\AccessDenied.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\AccessDenied.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Home\\AccessDenied.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T07:37:33.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "OrderComplete.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderComplete.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\OrderComplete.cshtml",
@@ -596,189 +453,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250114130030_reviewsDb.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114130030_reviewsDb.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20250114130030_reviewsDb.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114130030_reviewsDb.cs",
-              "RelativeToolTip": "LaptopStore\\Migrations\\20250114130030_reviewsDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:00:30.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ConnectDatabase.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Data\\ConnectDatabase.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Data\\ConnectDatabase.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Data\\ConnectDatabase.cs",
-              "RelativeToolTip": "LaptopStore\\Data\\ConnectDatabase.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:38:21.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Reviews.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Reviews\\Reviews.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Reviews\\Reviews.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Reviews\\Reviews.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Reviews\\Reviews.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T12:40:02.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\Cart.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Cart\\Cart.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\Cart.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Cart\\Cart.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T13:49:33.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20250114111634_orderInfoDb.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114111634_orderInfoDb.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20250114111634_orderInfoDb.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114111634_orderInfoDb.cs",
-              "RelativeToolTip": "LaptopStore\\Migrations\\20250114111634_orderInfoDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T12:55:54.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\User.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\User.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\User.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\User.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T06:48:17.231Z",
+              "WhenOpened": "2025-01-08T18:40:48.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "OrderInfo.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderInfo.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\OrderInfo.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderInfo.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Cart\\OrderInfo.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAHUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T06:58:18.621Z",
+              "WhenOpened": "2025-01-14T09:26:05.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "OrderProcess.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\OrderProcess.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\OrderProcess.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\OrderProcess.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Shared\\OrderProcess.cshtml",
-              "ViewState": "AgIAAGIBAAAAAAAAAAAAALQBAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\Payment.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\Payment.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\Payment.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Cart\\Payment.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAGsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T21:48:47.009Z",
+              "WhenOpened": "2025-01-14T11:26:45.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Pagination.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Pagination.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\Pagination.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Pagination.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Shared\\Pagination.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAAKkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T04:43:03.468Z",
+              "WhenOpened": "2025-01-11T08:23:42.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Page.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Page.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Page.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Page.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Page.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T19:47:14.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAK0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T06:58:21.764Z",
+              "WhenOpened": "2025-01-11T10:55:29.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Admin.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Admin.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\Admin.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Admin.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Shared\\Admin.cshtml",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAIoAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "FilterProduct.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\FilterProduct.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\FilterProduct.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\FilterProduct.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Home\\FilterProduct.cshtml",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAACYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T18:40:44.75Z",
+              "WhenOpened": "2025-01-14T12:25:10.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T08:23:20.238Z",
+              "WhenOpened": "2025-01-11T07:37:33.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Search.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\Search.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Search.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Home\\Search.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T17:38:43.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 10,
               "Title": "LoadMoreProducts.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\LoadMoreProducts.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\LoadMoreProducts.cshtml",
@@ -791,293 +557,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserInfoController.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\UserInfoController.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\UserInfoController.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\UserInfoController.cs",
-              "RelativeToolTip": "LaptopStore\\Controllers\\UserInfoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:46:21.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Cart\\OrderDetail.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\OrderDetail.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Cart\\OrderDetail.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBoAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:42:20.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "RegisterInfo.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\RegisterInfo.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\RegisterInfo.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\RegisterInfo.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Account\\RegisterInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:46:11.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ForgotPassword.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\ForgotPassword.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\ForgotPassword.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\ForgotPassword.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Account\\ForgotPassword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:46:09.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\AddProduct.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\AddProduct.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Admin\\AddProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAGMBAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T20:39:12.031Z",
+              "WhenOpened": "2025-01-08T20:07:24.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\Product.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Home\\Product.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\Product.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Home\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAPkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:42:40.754Z",
+              "WhenOpened": "2025-01-08T19:27:27.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "UserInfoUpdate.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T08:03:39.901Z",
+              "WhenOpened": "2025-01-09T06:26:36.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\User.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\User.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\User.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Account\\User.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA/wBIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T18:52:15.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Address.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\Address.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\Address.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\Address.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Account\\Address.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T18:40:12.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "OrderInfo.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderInfo.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\OrderInfo.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderInfo.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Cart\\OrderInfo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T09:26:05.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Payment.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\Payment.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\Payment.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\Payment.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Cart\\Payment.cshtml",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T11:26:45.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\Order.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Cart\\Order.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\Order.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Cart\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:35:04.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ProductDetail.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\ProductDetail.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Home\\ProductDetail.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\ProductDetail.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Home\\ProductDetail.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:43:02.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20241209131636_User.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20241209131636_User.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20241209131636_User.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20241209131636_User.cs",
-              "RelativeToolTip": "LaptopStore\\Migrations\\20241209131636_User.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T13:57:24.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Order.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Order.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Order.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Order.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Admin\\Order.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T06:13:25.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "OrderInfo.cshtml.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderInfo.cshtml.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\OrderInfo.cshtml.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderInfo.cshtml.cs",
-              "RelativeToolTip": "LaptopStore\\Views\\Cart\\OrderInfo.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T11:32:32.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "payment.js",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\payment.js",
-              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\payment.js",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\payment.js",
-              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\payment.js",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "ajaxLoadmore.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-14T11:28:29.534Z",
+              "WhenOpened": "2025-01-11T15:44:12.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ViewCart.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\ViewCart.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\ViewCart.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\ViewCart.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Cart\\ViewCart.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T21:08:53.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "User.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\User.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\User.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\User.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Admin\\User.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-08T18:40:48.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Product.cshtml",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Product.cshtml",
-              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Product.cshtml",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Product.cshtml",
-              "RelativeToolTip": "LaptopStore\\Views\\Admin\\Product.cshtml",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T09:51:43.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "OrderInfo.cs",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\OrderInfo.cs",
-              "RelativeDocumentMoniker": "LaptopStore\\Models\\Cart\\OrderInfo.cs",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\OrderInfo.cs",
-              "RelativeToolTip": "LaptopStore\\Models\\Cart\\OrderInfo.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA2wB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T10:30:27.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "avatar.css",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\avatar.css",
-              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\avatar.css",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\avatar.css",
-              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\avatar.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-14T09:21:58.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 15,
               "Title": "ajaxDeleteCart.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxDeleteCart.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxDeleteCart.js",
@@ -1090,19 +622,528 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 16,
+              "Title": "ajaxAddCart.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-12T16:18:48.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ajaxCheckEmail.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-09T06:19:31.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "home.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\home.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\home.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-11T09:28:00.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "home.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\home.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\home.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\home.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\home.js",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-11T09:28:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Cart\\OrderDetail.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\OrderDetail.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Cart\\OrderDetail.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:42:20.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:55:44.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\Order.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Cart\\Order.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\Order.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Cart\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:35:04.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:05:43.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:45:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ViewCart.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\ViewCart.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\ViewCart.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\ViewCart.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Cart\\ViewCart.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T21:08:53.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T06:58:18.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\Product.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Home\\Product.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\Product.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Home\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:42:40.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConnectDatabase.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Data\\ConnectDatabase.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Data\\ConnectDatabase.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Data\\ConnectDatabase.cs",
+              "RelativeToolTip": "LaptopStore\\Data\\ConnectDatabase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:38:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Reviews\\Reviews.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Reviews\\Reviews.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Reviews\\Reviews.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Reviews\\Reviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:40:02.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T08:23:20.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Page.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Page.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Page.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Page.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Page.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:47:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "requireLogin.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\requireLogin.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\requireLogin.js",
               "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\requireLogin.js",
               "RelativeToolTip": "LaptopStore\\wwwroot\\js\\requireLogin.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-13T20:57:00.317Z"
+              "WhenOpened": "2025-01-13T20:57:00.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "rate.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\rate.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\rate.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\rate.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\rate.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-14T13:32:25.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthorizationFilter.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Authorization\\AuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Authorization\\AuthorizationFilter.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Authorization\\AuthorizationFilter.cs",
+              "RelativeToolTip": "LaptopStore\\Authorization\\AuthorizationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:23:20.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "alert.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\alert.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\alert.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\alert.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\alert.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T08:23:23.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20250114130030_reviewsDb.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114130030_reviewsDb.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20250114130030_reviewsDb.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114130030_reviewsDb.cs",
+              "RelativeToolTip": "LaptopStore\\Migrations\\20250114130030_reviewsDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:00:30.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\Cart.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Cart\\Cart.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\Cart.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Cart\\Cart.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:49:33.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250114111634_orderInfoDb.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114111634_orderInfoDb.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20250114111634_orderInfoDb.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250114111634_orderInfoDb.cs",
+              "RelativeToolTip": "LaptopStore\\Migrations\\20250114111634_orderInfoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:55:54.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T06:48:17.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderProcess.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\OrderProcess.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\OrderProcess.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\OrderProcess.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\OrderProcess.cshtml",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAALQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T21:48:47.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Pagination.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Pagination.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\Pagination.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Pagination.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\Pagination.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T04:43:03.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T06:58:21.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Admin.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Shared\\Admin.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Shared\\Admin.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Shared\\Admin.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAIoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T18:40:44.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Home\\Search.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T17:38:43.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserInfoController.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\UserInfoController.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Controllers\\UserInfoController.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Controllers\\UserInfoController.cs",
+              "RelativeToolTip": "LaptopStore\\Controllers\\UserInfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:46:21.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterInfo.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\RegisterInfo.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\RegisterInfo.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\RegisterInfo.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\RegisterInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:46:11.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\ForgotPassword.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\ForgotPassword.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\ForgotPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:46:09.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\AddProduct.cshtml",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeToolTip": "LaptopStore\\Views\\Admin\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T20:39:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserInfoUpdate.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\UserInfoUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:03:39.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\User.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\User.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\User.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\User.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA/wBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:52:15.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\Address.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Account\\Address.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Account\\Address.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Account\\Address.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:40:12.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Home\\ProductDetail.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\ProductDetail.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Home\\ProductDetail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:43:02.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 52,
+              "Title": "20241209131636_User.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20241209131636_User.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20241209131636_User.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20241209131636_User.cs",
+              "RelativeToolTip": "LaptopStore\\Migrations\\20241209131636_User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:57:24.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderInfo.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderInfo.cshtml.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Views\\Cart\\OrderInfo.cshtml.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Cart\\OrderInfo.cshtml.cs",
+              "RelativeToolTip": "LaptopStore\\Views\\Cart\\OrderInfo.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:32:32.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "payment.js",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\payment.js",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\payment.js",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\payment.js",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\payment.js",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-14T11:28:29.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderInfo.cs",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\OrderInfo.cs",
+              "RelativeDocumentMoniker": "LaptopStore\\Models\\Cart\\OrderInfo.cs",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Cart\\OrderInfo.cs",
+              "RelativeToolTip": "LaptopStore\\Models\\Cart\\OrderInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:30:27.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "avatar.css",
+              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\avatar.css",
+              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\avatar.css",
+              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\avatar.css",
+              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\avatar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T09:21:58.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
               "Title": "ajaxUpdateQuantity.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxUpdateQuantity.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxUpdateQuantity.js",
@@ -1114,19 +1155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ajaxAddCart.js",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
-              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
-              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-12T16:18:48.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "search.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\search.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\search.js",
@@ -1138,7 +1167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "AddUser.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\AddUser.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\AddUser.cshtml",
@@ -1150,7 +1179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "totalPrice.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\totalPrice.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\totalPrice.js",
@@ -1162,7 +1191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "listCart.css",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\listCart.css",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\listCart.css",
@@ -1174,7 +1203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "orderComplete.css",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\orderComplete.css",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\orderComplete.css",
@@ -1186,7 +1215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "payment.css",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\payment.css",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\payment.css",
@@ -1198,7 +1227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "orderInfo.css",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\orderInfo.css",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\orderInfo.css",
@@ -1210,7 +1239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\Dashboard.cshtml",
@@ -1222,7 +1251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "EditUser.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\EditUser.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\EditUser.cshtml",
@@ -1234,7 +1263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "confirmLogout.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\confirmLogout.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\confirmLogout.js",
@@ -1246,7 +1275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "selectAvatar.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\selectAvatar.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\selectAvatar.js",
@@ -1258,31 +1287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "ajaxLoadmore.js",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
-              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
-              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\ajaxLoadmore.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-11T15:44:12.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "ajaxCheckEmail.js",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
-              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
-              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\ajaxCheckEmail.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-09T06:19:31.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "styleNavbar.css",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\styleNavbar.css",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\styleNavbar.css",
@@ -1294,7 +1299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "admin.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\admin.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\admin.js",
@@ -1306,7 +1311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "ajaxAddCart.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\ajaxAddCart.js",
@@ -1318,7 +1323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Program.cs",
               "RelativeDocumentMoniker": "LaptopStore\\Program.cs",
@@ -1330,7 +1335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\appsettings.json",
               "RelativeDocumentMoniker": "LaptopStore\\appsettings.json",
@@ -1342,7 +1347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "20250112135822_cart.cs",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250112135822_cart.cs",
               "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20250112135822_cart.cs",
@@ -1354,7 +1359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "20250111074707_Init.cs",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\20250111074707_Init.cs",
               "RelativeDocumentMoniker": "LaptopStore\\Migrations\\20250111074707_Init.cs",
@@ -1366,7 +1371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "ConnectDatabaseModelSnapshot.cs",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Migrations\\ConnectDatabaseModelSnapshot.cs",
               "RelativeDocumentMoniker": "LaptopStore\\Migrations\\ConnectDatabaseModelSnapshot.cs",
@@ -1378,7 +1383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Models\\Home\\ProductVM.cs",
               "RelativeDocumentMoniker": "LaptopStore\\Models\\Home\\ProductVM.cs",
@@ -1390,7 +1395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "EditProduct.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Admin\\EditProduct.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Admin\\EditProduct.cshtml",
@@ -1402,7 +1407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "ChangeEmail.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\ChangeEmail.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\ChangeEmail.cshtml",
@@ -1414,7 +1419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "VerifyForgotPassword.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\VerifyForgotPassword.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\VerifyForgotPassword.cshtml",
@@ -1426,7 +1431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\Register.cshtml",
@@ -1438,7 +1443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "ForgotPassword.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\ForgotPassword.cshtml",
@@ -1450,7 +1455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "previewImage.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\previewImage.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\previewImage.js",
@@ -1462,7 +1467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "Address.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\UserInfo\\Address.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\UserInfo\\Address.cshtml",
@@ -1474,7 +1479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "alertDelete.js",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\alertDelete.js",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\alertDelete.js",
@@ -1486,7 +1491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "admin.css",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\admin.css",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\admin.css",
@@ -1495,18 +1500,6 @@
               "ViewState": "AgIAAH8AAAAAAAAAAAAUwKQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-11T19:20:34.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "home.js",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\home.js",
-              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\js\\home.js",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\js\\home.js",
-              "RelativeToolTip": "LaptopStore\\wwwroot\\js\\home.js",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-11T09:28:32.721Z"
             },
             {
               "$type": "Document",
@@ -1547,18 +1540,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 90,
-              "Title": "home.css",
-              "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\home.css",
-              "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\home.css",
-              "ToolTip": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\home.css",
-              "RelativeToolTip": "LaptopStore\\wwwroot\\css\\home.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-11T09:28:00.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 91,
               "Title": "detail.css",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\wwwroot\\css\\detail.css",
               "RelativeDocumentMoniker": "LaptopStore\\wwwroot\\css\\detail.css",
@@ -1570,7 +1551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 91,
               "Title": "ViewUserInfo.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\UserInfo\\ViewUserInfo.cshtml",
@@ -1582,7 +1563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 92,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Zalo Received Files\\DoAnCKNet\\project_web_asp.net\\LaptopStore\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\Zalo Received Files\\DoAnCKNet\\project_web_asp.net\\LaptopStore\\Controllers\\HomeController.cs",
@@ -1592,7 +1573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 94,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Zalo Received Files\\DoAnCKNet\\project_web_asp.net\\LaptopStore\\Models\\Home\\Order.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\Zalo Received Files\\DoAnCKNet\\project_web_asp.net\\LaptopStore\\Models\\Home\\Order.cs",
@@ -1602,7 +1583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 93,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Zalo Received Files\\DoAnCKNet\\project_web_asp.net\\LaptopStore\\Models\\Home\\Product.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\Zalo Received Files\\DoAnCKNet\\project_web_asp.net\\LaptopStore\\Models\\Home\\Product.cs",
@@ -1612,7 +1593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 95,
               "Title": "ProductDetail.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Zalo Received Files\\DoAnCKNet\\project_web_asp.net\\LaptopStore\\Models\\Home\\ProductDetail.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Documents\\Zalo Received Files\\DoAnCKNet\\project_web_asp.net\\LaptopStore\\Models\\Home\\ProductDetail.cs",
@@ -1622,7 +1603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 96,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "LaptopStore\\Views\\Account\\Login.cshtml",
@@ -1634,7 +1615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 97,
               "Title": "LaptopStore.csproj",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\LaptopStore.csproj",
               "RelativeDocumentMoniker": "LaptopStore\\LaptopStore.csproj",
@@ -1646,7 +1627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 98,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Asp.net mvc\\LaptopStore\\LaptopStore\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LaptopStore\\Properties\\launchSettings.json",
